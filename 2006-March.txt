@@ -1,0 +1,152 @@
+From salna at ktl.mii.lt  Mon Mar  6 14:54:34 2006
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Mon, 06 Mar 2006 15:54:34 +0200
+Subject: [artscene-dev] Fwd: Undelivered Mail Returned to Sender
+In-Reply-To: <op.st9jeiaar0nccd@mail.takas.lt>
+References: <20050721111544.01C961C08B7@vilkas.taskas.net> <op.st9jeiaar0nccd@mail.takas.lt>
+Message-ID: <op.s5zvk8y0r0nccd@mail.takas.lt>
+
+fak
+pamirsau slaptazodi cvs'o
+ir viso berlios
+
+ir niekaip lost pasword neveikia
+gal as ant keisto emailo buvau uzregistraves?
+bet nepamenu.
+
+
+-- 
+juozas ?alna
+
+
+From cyrilla at gmail.com  Mon Mar  6 14:55:16 2006
+From: cyrilla at gmail.com (Ciri)
+Date: Mon, 6 Mar 2006 15:55:16 +0200
+Subject: [artscene-dev] Fwd: Undelivered Mail Returned to Sender
+In-Reply-To: <op.s5zvk8y0r0nccd@mail.takas.lt>
+References: <20050721111544.01C961C08B7@vilkas.taskas.net>
+	 <op.st9jeiaar0nccd@mail.takas.lt> <op.s5zvk8y0r0nccd@mail.takas.lt>
+Message-ID: <7966a7850603060555w5361e246p@mail.gmail.com>
+
+as net nezinau cvs'o passwordo
+:/
+jeigu matei tai ir uironas istaise nebalsuotoju buga.
+
+Ka darom?
+
+On 06/03/06, Juozas Salna <salna at ktl.mii.lt> wrote:
+> fak
+> pamirsau slaptazodi cvs'o
+> ir viso berlios
+>
+> ir niekaip lost pasword neveikia
+> gal as ant keisto emailo buvau uzregistraves?
+> bet nepamenu.
+>
+>
+> --
+> juozas ?alna
+> _______________________________________________
+> artscene-dev mailing list
+> artscene-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/artscene-dev
+>
+
+
+From nikolajus at gmail.com  Mon Mar  6 16:57:56 2006
+From: nikolajus at gmail.com (Nikolajus Krauklis)
+Date: Mon, 6 Mar 2006 17:57:56 +0200
+Subject: [artscene-dev] Fwd: Undelivered Mail Returned to Sender
+In-Reply-To: <op.s5zvk8y0r0nccd@mail.takas.lt>
+References: <20050721111544.01C961C08B7@vilkas.taskas.net>
+	 <op.st9jeiaar0nccd@mail.takas.lt> <op.s5zvk8y0r0nccd@mail.takas.lt>
+Message-ID: <e44936e50603060757k7be0de69o6eaae51dbb7f6910@mail.gmail.com>
+
+pasisi?sk meil? ? : pukomuko at users.berlios.de ,
+o jis nuforwardins ? email'? kuriuo buvai u?siregistrav?s. Jei nei
+vieno meilo negausi,
+rei?k buvai u?registrav?s ant meilo kurio nebeturi :) a? savo k?tik pasikei?iau.
+
+shell'e buvau, tai i? ten nieko doro nepadarysiu. projekto admin
+peid?e irgi buvau, tai ten irgi tavo info nepakoreguosi.
+
+lieka ka?kaip prisimint passwd :)
+gali bandyt visus variantus, logindamasis pvz ? shell.berlios.de SSH'u
+username: pukomuko. su kuriuo pass ?leis, rei?k tas teisingas.
+
+
+On 3/6/06, Juozas Salna <salna at ktl.mii.lt> wrote:
+> fak
+> pamirsau slaptazodi cvs'o
+> ir viso berlios
+>
+> ir niekaip lost pasword neveikia
+> gal as ant keisto emailo buvau uzregistraves?
+> bet nepamenu.
+>
+>
+> --
+> juozas ?alna
+> _______________________________________________
+> artscene-dev mailing list
+> artscene-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/artscene-dev
+>
+
+
+--
+Nikolajus Krauklis <nikolajus at gmail.com>
+
+
+From salna at ktl.mii.lt  Mon Mar  6 17:54:25 2006
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Mon, 06 Mar 2006 18:54:25 +0200
+Subject: [artscene-dev] Fwd: Undelivered Mail Returned to Sender
+In-Reply-To: <e44936e50603060757k7be0de69o6eaae51dbb7f6910@mail.gmail.com>
+References: <20050721111544.01C961C08B7@vilkas.taskas.net> <op.st9jeiaar0nccd@mail.takas.lt> <op.s5zvk8y0r0nccd@mail.takas.lt> <e44936e50603060757k7be0de69o6eaae51dbb7f6910@mail.gmail.com>
+Message-ID: <op.s5z3wza5r0nccd@mail.takas.lt>
+
+cho cho
+
+Your email address was set to the new one. Now
+follow the "lost password" procedure.
+
+The BerliOS Crew
+
+
+:)
+
+matyt ka?kok? nenaudojam? buvau u?stat?s
+
+
+-- 
+juozas ?alna
+
+
+From uiron at freaky.lt  Thu Mar 30 15:26:29 2006
+From: uiron at freaky.lt (viktoras makauskas)
+Date: Thu, 30 Mar 2006 16:26:29 +0300
+Subject: [artscene-dev] my.artscene
+Message-ID: <442BDC85.1040609@freaky.lt>
+
+taigi
+
+kartas nuo karto vis kyla skundai, kad per nuotraukas scenoje perlipti 
+neimanoma. kol dar neapsisprendet kilinti nuotrauku skilties visam 
+laikui, gal suveiktu tokie vaistai..
+
+padarom kiekvienam juzeriui galimybe nusistatyti ji dominancias 
+kategorijas. tarkim, pasizymiu tik trad.media, paishalus, 3d ir flash, 
+ir tokiose vietose, kaip "naujausi darbai", "visi darbai", "svieziausiai 
+komentuoti" matau tik tu kategoriju darbus. direct linkai i mane 
+nedominancias skiltis vistiek veikia, taip pat nedominanciu kategoriju 
+darbus vistiek galim perziureti pasispaude ant saito meniu.
+
+tokios tai va mintys link scenos personalizavimo. nezinau, samone ar 
+nesamone, veikia ir mane tos nuotraukos, o ju nematyti vis nesiseka:]
+
+-- 
+viktoras
+http://uiron.deviantart.com
+
+

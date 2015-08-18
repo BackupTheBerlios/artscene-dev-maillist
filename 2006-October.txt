@@ -1,0 +1,128 @@
+From salna at ktl.mii.lt  Wed Oct 11 00:39:15 2006
+From: salna at ktl.mii.lt (=?windows-1257?B?SnVvemFzINBhbG5h?=)
+Date: Wed, 11 Oct 2006 01:39:15 +0300
+Subject: [artscene-dev] kaip jums drupal?
+Message-ID: <op.tg787p2nefxptx@kontuperis>
+
+nesenai kilo planas chuliganas
+atnaujinti artscen? u?keliant j? ant drupal platformos.
+http://drupal.com
+
+dar nieko konkretaus,
+bet galb?t teko kam nors customaizinti ?? ?v?r??
+
+jeigu neprarasiu motyvacijos, tai gal pagaliau ir persitvarkysim.
+-- 
+juozas ?alna
+
+
+From nikolajus at gmail.com  Wed Oct 11 10:28:58 2006
+From: nikolajus at gmail.com (Nikolajus Krauklis)
+Date: Wed, 11 Oct 2006 11:28:58 +0300
+Subject: [artscene-dev] kaip jums drupal?
+In-Reply-To: <op.tg787p2nefxptx@kontuperis>
+References: <op.tg787p2nefxptx@kontuperis>
+Message-ID: <e44936e50610110128i431862a2r18b3d3b80c60cbf7@mail.gmail.com>
+
+http://drupal.org/
+
+drupal.com - forbidden :)
+
+a? tai jo ne?iupin?s, bet ka?kokis vyrukas pamenu i? lietblogs
+vokietijoj dirbo kompanijoj su ?iuo cms'u ir customaizino j?. na mums
+nuo to nei ?ilta nei ?alta :)
+
+pa?i?r?sim ... reik parsitemt vakarop namudiniam kompe
+pasitestuot/pasi?i?r?t sourc'?
+
+On 10/11/06, Juozas ?alna <salna at ktl.mii.lt> wrote:
+> nesenai kilo planas chuliganas
+> atnaujinti artscen? u?keliant j? ant drupal platformos.
+> http://drupal.com
+>
+> dar nieko konkretaus,
+> bet galb?t teko kam nors customaizinti ?? ?v?r??
+>
+> jeigu neprarasiu motyvacijos, tai gal pagaliau ir persitvarkysim.
+> --
+> juozas ?alna
+> _______________________________________________
+> artscene-dev mailing list
+> artscene-dev at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/artscene-dev
+>
+
+
+-- 
+Nikolajus Krauklis <nikolajus at gmail.com>
+
+From rimantas at gmail.com  Wed Oct 11 12:25:14 2006
+From: rimantas at gmail.com (Rimantas Liubertas)
+Date: Wed, 11 Oct 2006 13:25:14 +0300
+Subject: [artscene-dev] kaip jums drupal?
+In-Reply-To: <op.tg787p2nefxptx@kontuperis>
+References: <op.tg787p2nefxptx@kontuperis>
+Message-ID: <5ccfb3340610110325w733c8a7cvd6b3bbc4b8a081bc@mail.gmail.com>
+
+> nesenai kilo planas chuliganas
+> atnaujinti artscen? u?keliant j? ant drupal platformos.
+> http://drupal.com
+>
+> dar nieko konkretaus,
+> bet galb?t teko kam nors customaizinti ?? ?v?r??
+>
+> jeigu neprarasiu motyvacijos, tai gal pagaliau ir persitvarkysim.
+
+A? kaip tik esu ?siv?l?s ? projekt?, kur keletas svetaini? bus ant
+drupalo pasukta,
+bet pats kol kas tik tik apsi?iupin?ju su juo.
+
+Gal ?domu bus IBM analiz?:
+http://www-128.ibm.com/developerworks/ibm/library/i-osource1/
+
+Saitai truput? ? tem?:
+ http://www.imagesandstories.com/
+ http://www.projectopus.com/
+
+Ne ? tem?:
+ http://www.theonion.com/content/
+ http://www.linuxjournal.com/
+
+
+ic
+
+From salna at ktl.mii.lt  Wed Oct 11 12:59:40 2006
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Wed, 11 Oct 2006 13:59:40 +0300
+Subject: [artscene-dev] kaip jums drupal?
+In-Reply-To: <5ccfb3340610110325w733c8a7cvd6b3bbc4b8a081bc@mail.gmail.com>
+References: <op.tg787p2nefxptx@kontuperis>
+	<5ccfb3340610110325w733c8a7cvd6b3bbc4b8a081bc@mail.gmail.com>
+Message-ID: <op.tg87hqa5r0nccd@mail.takas.lt>
+
+> A? kaip tik esu ?siv?l?s ? projekt?, kur keletas svetaini? bus ant
+> drupalo pasukta, bet pats kol kas tik tik apsi?iupin?ju su juo.
+
+a? kelis buvau paleides visai nekustomaizintus,
+tipo intranetui tiko toks kaip yra.
+
+
+
+
+>
+> Gal ?domu bus IBM analiz?:
+> http://www-128.ibm.com/developerworks/ibm/library/i-osource1/
+o part 1 ir neskai?iau ka?kaip.
+
+
+> Saitai truput? ? tem?:
+>  http://www.imagesandstories.com/
+>  http://www.projectopus.com/
+
+dar vienas:
+http://www.terminus1525.ca/index.php?l=en
+
+-- 
+juozas ?alna
+
+

@@ -1,0 +1,249 @@
+From uiron at takas.lt  Sat Jun 25 23:52:37 2005
+From: uiron at takas.lt (viktoras)
+Date: Sun, 26 Jun 2005 00:52:37 +0300
+Subject: [artscene-dev] ideju?
+Message-ID: <1644718643.20050626005237@takas.lt>
+
+puko,
+
+vat eilini karta i "antros versios palaikymas" irasau toki minimalu
+pataisyma, kad tiek pat laiko uzimtu tos vienos eilutes kode irasymas.
+tu kaip protingas zmogus neturi minciu, kaip tokiam siuksliu
+isnesinejimui butu galima nesudetingu budu pajungti ir mane (kalbu
+vienaskaita, nes berods daugiau savanoriu nematyti)? gaudyti
+diffus mailu, merginti ir dar paskui reviewinti koda? :) uzknistu.
+
+as suprantu, kad tu ir taip neturi didelio noro krapstyti
+normaliai veikiancios sistemos, na bet idomu butu isgirsti koki nors
+komentara, kas bus toliau.
+
+--
+v
+http://uiron.deviantart.com
+
+
+
+From nikolajus at gmail.com  Sun Jun 26 10:46:06 2005
+From: nikolajus at gmail.com (Nikolajus Krauklis)
+Date: Sun, 26 Jun 2005 11:46:06 +0300
+Subject: [artscene-dev] ideju?
+In-Reply-To: <1644718643.20050626005237@takas.lt>
+References: <1644718643.20050626005237@takas.lt>
+Message-ID: <e44936e50506260146f6b4fc1@mail.gmail.com>
+
+a? irgi dar gyvas. :)
+
+On 6/26/05, viktoras <uiron at takas.lt> wrote:
+> 
+> puko,
+> 
+> vat eilini karta i "antros versios palaikymas" irasau toki minimalu
+> pataisyma, kad tiek pat laiko uzimtu tos vienos eilutes kode irasymas.
+> tu kaip protingas zmogus neturi minciu, kaip tokiam siuksliu
+> isnesinejimui butu galima nesudetingu budu pajungti ir mane (kalbu
+> vienaskaita, nes berods daugiau savanoriu nematyti)? gaudyti
+> diffus mailu, merginti ir dar paskui reviewinti koda? :) uzknistu.
+> 
+> as suprantu, kad tu ir taip neturi didelio noro krapstyti
+> normaliai veikiancios sistemos, na bet idomu butu isgirsti koki nors
+> komentara, kas bus toliau.
+> 
+> --
+> v
+> http://uiron.deviantart.com
+> 
+> _______________________________________________
+> artscene-dev mailing list
+> artscene-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/artscene-dev
+> 
+
+
+-- 
+Nikolajus Krauklis <nikolajus at gmail.com>
+
+
+From salna at ktl.mii.lt  Sun Jun 26 12:14:55 2005
+From: salna at ktl.mii.lt (=?windows-1257?B?SnVvemFzINBhbG5h?=)
+Date: Sun, 26 Jun 2005 13:14:55 +0300
+Subject: [artscene-dev] ideju?
+In-Reply-To: <1644718643.20050626005237@takas.lt>
+References: <1644718643.20050626005237@takas.lt>
+Message-ID: <op.ssy2q5yrefxptx@kontuperis>
+
+> vat eilini karta i "antros versios palaikymas" irasau toki minimalu
+
+
+d?l palaikymo, tai prisijunkit prie berlios cvs
+ir commitinkit,
+
+va atsisiun?iu namo cvs klient?
+ir u?tikrinu, kad kiek b?siu prie neto,
+tai ant artscenos kab?s cvsin? versija.
+
+ar ?itas netinka variantas?
+galiu kam nors ir ftp slapta?od? duoti ;]
+
+
+
+
+o ?iaip kas bus toliau,
+tai ?iuo metu ne?inau nieko ;]
+
+dabar turiu tu??i? savait?, kol kei?iu darbus,
+galb?t reikt? pagerti su "menininkais" i?kristalizuot
+koki? nors vizij? artscenai, nes jau kelet? met? nieko ypatingo nevyksta.
+
+i? technin?s pus?s, tai
+a? su php nebedirbu ir visai praradau skills.
+taip kad nuo nulio ka?ko gudraus nebepriprogramuosiu.
+ta proga para?iau adminui, gal yra planuose php5.
+bet pana?u, kad nelabai.
+
+
+
+-- 
+juozas ?alna
+
+
+From salna at ktl.mii.lt  Sun Jun 26 12:25:18 2005
+From: salna at ktl.mii.lt (=?windows-1257?B?SnVvemFzINBhbG5h?=)
+Date: Sun, 26 Jun 2005 13:25:18 +0300
+Subject: [artscene-dev] ideju?
+In-Reply-To: <1644718643.20050626005237@takas.lt>
+References: <1644718643.20050626005237@takas.lt>
+Message-ID: <op.ssy28greefxptx@kontuperis>
+
+berlios useris uiron prid?tas prie developeri?
+ir gavo cvs commit teises.
+
+-- 
+juozas ?alna
+
+
+From uiron at takas.lt  Sun Jun 26 13:25:16 2005
+From: uiron at takas.lt (v)
+Date: Sun, 26 Jun 2005 14:25:16 +0300
+Subject: [artscene-dev] ideju?
+In-Reply-To: <op.ssy2q5yrefxptx@kontuperis>
+References: <1644718643.20050626005237@takas.lt> <op.ssy2q5yrefxptx@kontuperis>
+Message-ID: <42BE909C.9000903@takas.lt>
+
+ > d?l palaikymo, tai prisijunkit prie berlios cvs
+ > ir commitinkit,
+ > ar ?itas netinka variantas?
+
+man tai ner patogiau, jei tik tamstai nesisiausia plaukai pamascius, kad 
+i nuosava cvs'a komitina nepazistamas isipraselis. as, kaip minejau, tam 
+kartui apsiribosiu minimaliu bugu pataisymais.
+
+
+
+ > i? technin?s pus?s, tai
+ > a? su php nebedirbu ir visai praradau skills.
+na, man gyvenime php irgi niekada nebuvo pagrindinis darbo irankis, bet 
+smulkmenas patvarkyti didelio galvos skausmo nebus.
+
+
+ > taip kad nuo nulio ka?ko gudraus nebepriprogramuosiu.
+?mes visi turbut visai neblogai isivaizduojam, kiek toks projektas 
+kainuotu kaip komercinis uzsakymas, ir rasant nuo nulio savom rankom 
+butu kaip ir mazdaug tokiu pinigu mokejimas is savo kisenes:)
+
+
+i ta pagerima su mianininkais ir as noreciau patekti, jau vien del 
+vienos tokios penkis metus ishtaupytos dovanos artscenai.
+
+na, geru atostogu
+
+-- 
+v
+
+
+From marius at crazy.lt  Sun Jun 26 13:01:33 2005
+From: marius at crazy.lt (=?UTF-8?B?TWFyaXVzIFBldHJhdmnEjWl1cw==?=)
+Date: Sun, 26 Jun 2005 15:01:33 +0400
+Subject: [artscene-dev] ideju?
+In-Reply-To: <42BE909C.9000903@takas.lt>
+References: <1644718643.20050626005237@takas.lt> <op.ssy2q5yrefxptx@kontuperis> <42BE909C.9000903@takas.lt>
+Message-ID: <42BE8B0D.5070602@crazy.lt>
+
+Tigi jei kazkas uzkomitina kazkoki netinkama sh, gali vel viska 
+resolvint kaip buvo is pradziu, be to commito... visas pasaulis tep 
+daro, kuo cia turi but kitep...
+Dar butu zjb pamatyt puka su pasiaustais tokiais iki dangaus plaukais :)
+> man tai ner patogiau, jei tik tamstai nesisiausia plaukai pamascius, kad 
+> i nuosava cvs'a komitina nepazistamas isipraselis. as, kaip minejau, tam 
+> kartui apsiribosiu minimaliu bugu pataisymais.
+
+Kiek? man butu labai idomu suzinot..
+> ?mes visi turbut visai neblogai isivaizduojam, kiek toks projektas 
+> kainuotu kaip komercinis uzsakymas,
+
+bambargija kirgudu
+> i ta pagerima su mianininkais ir as noreciau patekti, jau vien del 
+> vienos tokios penkis metus ishtaupytos dovanos artscenai.
+
+
+
+From uiron at takas.lt  Sun Jun 26 15:14:17 2005
+From: uiron at takas.lt (v)
+Date: Sun, 26 Jun 2005 16:14:17 +0300
+Subject: [artscene-dev] ideju?
+In-Reply-To: <42BE8B0D.5070602@crazy.lt>
+References: <1644718643.20050626005237@takas.lt> <op.ssy2q5yrefxptx@kontuperis> <42BE909C.9000903@takas.lt> <42BE8B0D.5070602@crazy.lt>
+Message-ID: <42BEAA29.2010901@takas.lt>
+
+> Tigi jei kazkas uzkomitina kazkoki netinkama sh, gali vel viska 
+> resolvint kaip buvo is pradziu, be to commito... visas pasaulis tep 
+> daro, kuo cia turi but kitep...
+tiek mano zinios dar nesha, lygiai taip pat kaip ir zinios, kad kazkam 
+ta netinkama sh nuo tinkamo sh paskui sijoti reikia:]
+
+
+> Kiek? man butu labai idomu suzinot..
+cia jau gaunasi offtopicas po truputi, bet bent jau as be dvieju savo 
+menesiniu atlyginimu ne neapsiimciau. zodziu, nekeliam veju, niekas v3 
+tam kartui kodinti nesiruosia
+
+
+-- 
+v
+
+
+From salna at ktl.mii.lt  Sun Jun 26 21:59:08 2005
+From: salna at ktl.mii.lt (=?windows-1257?B?SnVvemFzINBhbG5h?=)
+Date: Sun, 26 Jun 2005 22:59:08 +0300
+Subject: [artscene-dev] ideju?
+In-Reply-To: <42BEAA29.2010901@takas.lt>
+References: <1644718643.20050626005237@takas.lt> <op.ssy2q5yrefxptx@kontuperis> <42BE909C.9000903@takas.lt> <42BE8B0D.5070602@crazy.lt> <42BEAA29.2010901@takas.lt>
+Message-ID: <op.ssztsuyvefxptx@kontuperis>
+
+On Sun, 26 Jun 2005 16:14:17 +0300, v <uiron at takas.lt> wrote:
+
+>> Tigi jei kazkas uzkomitina kazkoki netinkama sh, gali vel viska  
+>> resolvint kaip buvo is pradziu, be to commito... visas pasaulis tep  
+>> daro, kuo cia turi but kitep...
+> tiek mano zinios dar nesha, lygiai taip pat kaip ir zinios, kad kazkam  
+> ta netinkama sh nuo tinkamo sh paskui sijoti reikia:]
+
+
+su tokiu ?rankiu kaip www.smartcvs.com
+tai n?r b?d? lyginti tuos diffus :)
+
+ok first change kabo gyvai jau.
+
+>
+>> Kiek? man butu labai idomu suzinot..
+> cia jau gaunasi offtopicas po truputi, bet bent jau as be dvieju savo
+
+nieks toki? darb? pinigais nematuoja.
+patinka darai, nepatinka nedarai.
+;]
+
+
+
+-- 
+juozas ?alna
+
+

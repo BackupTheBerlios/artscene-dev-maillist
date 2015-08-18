@@ -1,0 +1,78 @@
+From salna at ktl.mii.lt  Fri Aug  1 00:45:30 2008
+From: salna at ktl.mii.lt (juozas salna)
+Date: Fri, 1 Aug 2008 01:45:30 +0300
+Subject: [artscene-dev] Fwd: apie forumus
+In-Reply-To: <c88152660807311528j5518a722p343b00525f3fa425@mail.gmail.com>
+References: <c88152660807311528j5518a722p343b00525f3fa425@mail.gmail.com>
+Message-ID: <c88152660807311545p65c30406j1d44e6310bde4fb9@mail.gmail.com>
+
+suinstaliavau phpbb3 ir punbb ir fluxbb 1.3 beta
+
+phpbb - monstras, jau senokai tokio didelio projekto nema?iau ;]
+ten nieko nekei?iant vien per web? kol i?siai?kini k? ir kur spausti...
+man patiko, kad temos yra html templeitai, bet j? labai daug ir sud?tingi,
+nesinori keisti.
+
+punbb ?iaip man patiko, tik nelabai supratau, kaip ten temas daryti, apart
+css
+
+su punbb ir fluxbb ka?koks politinis nesusipratimas yra.
+tipo developeriai susipyko su ka?kokia rus? firma ir nuforkino ? fluxbb vis?
+kod?.
+rusai pasi?m? atgal atsiforkino paskutin? fluxbb kod?.
+taip yra, kad ?iuo metu yra du projektai su beveik vienodu kodu
+bet pvz private_messages extensionas nuo punBB neveikia ant fluxBB
+ai?ku viskas beta ir t.t.
+
+gal reikt? pasi?i?r?ti paskutin? 1.2.xx punBB arba fluxBB
+man svarbiausia, kad private_messages b?t? geras funkcionalumas.
+ai?ku jei jo n?ra, tai galima tada programuoti patiems.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/artscene-dev/attachments/20080801/e95abf91/attachment.html>
+
+From salna at ktl.mii.lt  Sun Aug  3 23:57:27 2008
+From: salna at ktl.mii.lt (juozas salna)
+Date: Mon, 4 Aug 2008 00:57:27 +0300
+Subject: [artscene-dev] Fwd: forumai
+In-Reply-To: <c88152660808031453u1f5ef822ubfd7b17d4cd82633@mail.gmail.com>
+References: <c88152660808031453u1f5ef822ubfd7b17d4cd82633@mail.gmail.com>
+Message-ID: <c88152660808031457w797a6c96u3d804a77cf2b8ba@mail.gmail.com>
+
+---------- Forwarded message ----------
+From: Juozas ?alna <pukomuko at gmail.com>
+Date: 2008/8/4
+Subject: forumai
+To: artscene-dev at lists.berlios.de
+
+
+pasiinstaliavau fluxbb svn HEAD
+man patinka ;]
+
+Private Messages yra trys variantai:
+1. Oficialus: http://fluxbb.org/forums/topic/1055/private-messaging/
+2. 3rd party: http://fluxbb.org/forums/topic/940/private-messaging/
+3. oficialus punBB extensionas (visai neviekia man)
+
+Nei vienas n?ra normaliai veikiantis.
+turiu sp?jim?, kad m?nesio b?gyje, ar bent jau kai fluxbb beta3 i?eis bus ir
+1 oficialus variantas.
+
+dabar tik reikia pasiai?kinti kaip galima suintegruoti prisijungimo
+proced?r?.
+kaip u?drausti kurti userius, keisti password? ir kurti naujus userius per
+artscenos userio k?rim?. K? daryti su trinamais useriais?
+su css pa?aisti, kad spalvos labiau artscenos b?t?.
+
+prisiloginimas gali b?ti du variantai dabar man galvoje:
+1. Neintegruojant sesij?. Prisijungi artscenoje, ateini ? forum?, v?l reikia
+prisijungti. Tik tiek, kad passwordas sutampa.
+2. Integruojant sesijas. Jei useris neprisijung?s - tkrinti ar yra artscenos
+sesijos kukis. Jei kukis yra ir j? patvirtina artscenos kodas, tai
+priloginti su forumo sesija.
+
+Reikia kode dar pasidairyti.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/artscene-dev/attachments/20080804/68b4e40e/attachment.html>
+

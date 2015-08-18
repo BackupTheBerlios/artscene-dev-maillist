@@ -1,0 +1,52 @@
+From salna at ktl.mii.lt  Thu Jul 21 14:24:08 2005
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Thu, 21 Jul 2005 15:24:08 +0300
+Subject: [artscene-dev] Fwd: Undelivered Mail Returned to Sender
+In-Reply-To: <20050721111544.01C961C08B7@vilkas.taskas.net>
+References: <20050721111544.01C961C08B7@vilkas.taskas.net>
+Message-ID: <op.st9jeiaar0nccd@mail.takas.lt>
+
+Update of /cvsroot/artscene/art.scene.v2/htdocs/darbai/class
+
+In directory sheep:/tmp/cvs-serv8868/htdocs/darbai/class
+
+
+
+Modified Files:
+
+darbai.class.php
+
+Log Message:
+
+get_near_works stengiasi grazinti 6 gretimus darbus net i tada, kai nera  
+pakankamai darbu is kaires ar desines
+
+
+
+live
+
+
+
+-- 
+juozas ?alna
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/artscene-dev/attachments/20050721/e235e2bb/attachment.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: attachment2619.tmp
+Type: application/octet-stream
+Size: 331 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/artscene-dev/attachments/20050721/e235e2bb/attachment.obj>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/artscene-dev/attachments/20050721/e235e2bb/attachment-0001.htm>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: attachment2618.tmp
+Type: application/octet-stream
+Size: 178 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/artscene-dev/attachments/20050721/e235e2bb/attachment-0001.obj>
+

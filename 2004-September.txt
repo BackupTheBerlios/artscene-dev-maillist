@@ -1,0 +1,74 @@
+From salna at ktl.mii.lt  Tue Sep 28 23:50:01 2004
+From: salna at ktl.mii.lt (=?windows-1257?B?SnVvemFzINBhbG5h?=)
+Date: Wed, 29 Sep 2004 00:50:01 +0300
+Subject: [artscene-dev] testas
+Message-ID: <opse139nro34s0ra@legba>
+
+check check one
+
+
+
+From uiron at takas.lt  Thu Sep 30 15:15:59 2004
+From: uiron at takas.lt (uiron)
+Date: Thu, 30 Sep 2004 16:15:59 +0300
+Subject: [artscene-dev] gyvas
+Message-ID: <1195412712.20040930161559@takas.lt>
+
+gyvasnegyvas
+
+
+
+linkejimai,
+Vytas    (uiron at takas.lt)
+
+
+
+From uiron at takas.lt  Thu Sep 30 16:02:23 2004
+From: uiron at takas.lt (uiron)
+Date: Thu, 30 Sep 2004 17:02:23 +0300
+Subject: [artscene-dev] cvs
+Message-ID: <1829570621.20040930170223@takas.lt>
+
+cvs'e tikrai pilna ir paskutine versija? toks jausmas, kad ir vel
+matau jau pagydytus scenos bugus.
+
+
+--
+vytas
+uiron at takas.lt
+
+
+
+From uiron at takas.lt  Thu Sep 30 16:37:54 2004
+From: uiron at takas.lt (uiron)
+Date: Thu, 30 Sep 2004 17:37:54 +0300
+Subject: [artscene-dev] u_user_info
+Message-ID: <1808139809.20040930173754@takas.lt>
+
+dar, jei galima, u_user_info dumpa, del jo trukstamu duomenu
+user.userinfo rodo templeito tagus.
+
+
+
+--
+vytas
+uiron at takas.lt
+
+
+
+From uiron at takas.lt  Thu Sep 30 18:57:56 2004
+From: uiron at takas.lt (uiron)
+Date: Thu, 30 Sep 2004 19:57:56 +0300
+Subject: [artscene-dev] jau
+Message-ID: <1993247286.20040930195756@takas.lt>
+
+lokali artscena atrodo jau sukasi, ir tarkim kad as jau pasiuoses
+tolesnems instrukcijoms/planams/pasiulymams.
+
+
+--
+vytas
+uiron at takas.lt
+
+
+

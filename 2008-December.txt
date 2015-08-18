@@ -1,0 +1,213 @@
+From salna at ktl.mii.lt  Mon Dec  1 20:52:41 2008
+From: salna at ktl.mii.lt (juozas salna)
+Date: Mon, 1 Dec 2008 21:52:41 +0200
+Subject: [artscene-dev] PING?
+In-Reply-To: <DCE82ECE-8E99-43F8-9B83-799D5C997065@crazy.lt>
+References: <DCE82ECE-8E99-43F8-9B83-799D5C997065@crazy.lt>
+Message-ID: <c88152660812011152l7b43524ds654c0d848f3567c3@mail.gmail.com>
+
+ignoring your success
+
+On Sun, Nov 30, 2008 at 23:17, Marius Petravi?ius <marius at crazy.lt> wrote:
+
+> Testing newsgroup, ignore if success... ;-)
+> _______________________________________________
+> artscene-dev mailing list
+> artscene-dev at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/artscene-dev
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/artscene-dev/attachments/20081201/5d095e8b/attachment.html>
+
+From martin at saulis.com  Mon Dec  1 20:53:26 2008
+From: martin at saulis.com (Martin Saulis)
+Date: Mon, 01 Dec 2008 21:53:26 +0200
+Subject: [artscene-dev] PING?
+In-Reply-To: <c88152660812011152l7b43524ds654c0d848f3567c3@mail.gmail.com>
+References: <DCE82ECE-8E99-43F8-9B83-799D5C997065@crazy.lt>
+	<c88152660812011152l7b43524ds654c0d848f3567c3@mail.gmail.com>
+Message-ID: <493440B6.2070603@saulis.com>
+
+ignoring your ignoring!
+
+
+juozas salna wrote:
+> ignoring your success
+>
+> On Sun, Nov 30, 2008 at 23:17, Marius Petravi?ius <marius at crazy.lt 
+> <mailto:marius at crazy.lt>> wrote:
+>
+>     Testing newsgroup, ignore if success... ;-)
+>     _______________________________________________
+>     artscene-dev mailing list
+>     artscene-dev at lists.berlios.de <mailto:artscene-dev at lists.berlios.de>
+>     https://lists.berlios.de/mailman/listinfo/artscene-dev
+>
+>
+> ------------------------------------------------------------------------
+>
+> _______________________________________________
+> artscene-dev mailing list
+> artscene-dev at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/artscene-dev
+>   
+
+
+From rimantas at gmail.com  Mon Dec  1 21:11:33 2008
+From: rimantas at gmail.com (Rimantas Liubertas)
+Date: Mon, 1 Dec 2008 22:11:33 +0200
+Subject: [artscene-dev] PING?
+In-Reply-To: <493440B6.2070603@saulis.com>
+References: <DCE82ECE-8E99-43F8-9B83-799D5C997065@crazy.lt>
+	<c88152660812011152l7b43524ds654c0d848f3567c3@mail.gmail.com>
+	<493440B6.2070603@saulis.com>
+Message-ID: <5ccfb3340812011211se8cfa9cmadb1869dae69cc20@mail.gmail.com>
+
+> ignoring your ignoring!
+
+Ignoring ignoring successful!
+
+
+From marius at crazy.lt  Sun Dec 14 11:26:46 2008
+From: marius at crazy.lt (=?ISO-8859-4?Q?Marius_Petravi=E8ius?=)
+Date: Sun, 14 Dec 2008 12:26:46 +0200
+Subject: [artscene-dev] =?iso-8859-4?q?d=ECl_spam_useri=F9/komentar=F9_art?=
+	=?iso-8859-4?q?=2Escen=ECje?=
+Message-ID: <3A7CAD33-524A-4F43-900E-9016EE26FF34@crazy.lt>
+
+Sveiki,
+
+Nor?josi pasiteirauti, ar koki? nors priemoni? yra imamamsi prie?  
+SPAM'erius per art.scene? Ka?kokios captchos ?d?tos ar adminai jau  
+pasekmes naikina trindami spam userius ir spam komentarus?
+Klausimas kilo i? php.lt. Ten dabar belenkiek t? spam useri? ir  
+ka?kaip pereiti visk? ranka susitvarkyti - b?t? per daug linksmas  
+u?si?mimas.
+
+From salna at ktl.mii.lt  Mon Dec 15 19:52:32 2008
+From: salna at ktl.mii.lt (juozas salna)
+Date: Mon, 15 Dec 2008 20:52:32 +0200
+Subject: [artscene-dev]
+	=?iso-8859-13?q?d=EBl_spam_useri=F8/komentar=F8_ar?=
+	=?iso-8859-13?q?t=2Escen=EBje?=
+In-Reply-To: <3A7CAD33-524A-4F43-900E-9016EE26FF34@crazy.lt>
+References: <3A7CAD33-524A-4F43-900E-9016EE26FF34@crazy.lt>
+Message-ID: <c88152660812151052j55e5fbadl7819fb84d5ed7a5a@mail.gmail.com>
+
+Spam useriai registruojasi, bet dar nema?iau, kad jie postint? k? nors.Man
+niekas nesiskund? apie tai.
+
+O php.lt spameriai postina ? forum??
+
+
+
+2008/12/14 Marius Petravi?ius <marius at crazy.lt>
+
+> Sveiki,
+>
+> Nor?josi pasiteirauti, ar koki? nors priemoni? yra imamamsi prie?
+> SPAM'erius per art.scene? Ka?kokios captchos ?d?tos ar adminai jau
+> pasekmes naikina trindami spam userius ir spam komentarus?
+> Klausimas kilo i? php.lt. Ten dabar belenkiek t? spam useri? ir
+> ka?kaip pereiti visk? ranka susitvarkyti - b?t? per daug linksmas
+> u?si?mimas.
+> _______________________________________________
+> artscene-dev mailing list
+> artscene-dev at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/artscene-dev
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/artscene-dev/attachments/20081215/337c93ae/attachment.html>
+
+From marius at crazy.lt  Tue Dec 16 14:05:49 2008
+From: marius at crazy.lt (=?ISO-8859-4?Q?Marius_Petravi=E8ius?=)
+Date: Tue, 16 Dec 2008 15:05:49 +0200
+Subject: [artscene-dev]
+ =?iso-8859-4?q?d=ECl_spam_useri=F9/komentar=F9_art?=
+ =?iso-8859-4?q?=2Escen=ECje?=
+In-Reply-To: <c88152660812151052j55e5fbadl7819fb84d5ed7a5a@mail.gmail.com>
+References: <3A7CAD33-524A-4F43-900E-9016EE26FF34@crazy.lt>
+	<c88152660812151052j55e5fbadl7819fb84d5ed7a5a@mail.gmail.com>
+Message-ID: <D8674F78-1210-4F3A-8292-0B1F711FB50A@crazy.lt>
+
+Ne, ? forum? nepostin?, bet bet kitas formas lenda prisiuntin?j?  
+kr?vas error prane?im?.
+
+Ie?kau ?mogi?ko b?do visiems figoviems useriams panaikinti. Artinuosi  
+prie to, kad skai?iuoti linkus About Me laukuose, ie?koti vienod?  
+slapta?od?i? ar ?iaip spam ?odeli? bet kokioje vartotojo informacijoje.
+
+
+On Dec 15, 2008, at 8:52 PM, juozas salna wrote:
+> Spam useriai registruojasi, bet dar nema?iau, kad jie postint? k?  
+> nors.
+> Man niekas nesiskund? apie tai.
+> O php.lt spameriai postina ? forum??
+>
+>
+>
+> 2008/12/14 Marius Petravi?ius <marius at crazy.lt>
+> Sveiki,
+>
+> Nor?josi pasiteirauti, ar koki? nors priemoni? yra imamamsi prie?
+> SPAM'erius per art.scene? Ka?kokios captchos ?d?tos ar adminai jau
+> pasekmes naikina trindami spam userius ir spam komentarus?
+> Klausimas kilo i? php.lt. Ten dabar belenkiek t? spam useri? ir
+> ka?kaip pereiti visk? ranka susitvarkyti - b?t? per daug linksmas
+> u?si?mimas.
+
+
+From salna at ktl.mii.lt  Wed Dec 17 21:13:18 2008
+From: salna at ktl.mii.lt (juozas salna)
+Date: Wed, 17 Dec 2008 22:13:18 +0200
+Subject: [artscene-dev]
+	=?iso-8859-13?q?d=EBl_spam_useri=F8/komentar=F8_ar?=
+	=?iso-8859-13?q?t=2Escen=EBje?=
+In-Reply-To: <D8674F78-1210-4F3A-8292-0B1F711FB50A@crazy.lt>
+References: <3A7CAD33-524A-4F43-900E-9016EE26FF34@crazy.lt>
+	<c88152660812151052j55e5fbadl7819fb84d5ed7a5a@mail.gmail.com>
+	<D8674F78-1210-4F3A-8292-0B1F711FB50A@crazy.lt>
+Message-ID: <c88152660812171213n484de020va6f00a90894e374@mail.gmail.com>
+
+pas mus tia jie prisiregistrav? neprisijungia po to.tai tik visus [new]
+pa?ym?tus riek nutrinti.
+
+
+2008/12/16 Marius Petravi?ius <marius at crazy.lt>
+
+> Ne, ? forum? nepostin?, bet bet kitas formas lenda prisiuntin?j?
+> kr?vas error prane?im?.
+>
+> Ie?kau ?mogi?ko b?do visiems figoviems useriams panaikinti. Artinuosi
+> prie to, kad skai?iuoti linkus About Me laukuose, ie?koti vienod?
+> slapta?od?i? ar ?iaip spam ?odeli? bet kokioje vartotojo informacijoje.
+>
+>
+> On Dec 15, 2008, at 8:52 PM, juozas salna wrote:
+> > Spam useriai registruojasi, bet dar nema?iau, kad jie postint? k?
+> > nors.
+> > Man niekas nesiskund? apie tai.
+> > O php.lt spameriai postina ? forum??
+> >
+> >
+> >
+> > 2008/12/14 Marius Petravi?ius <marius at crazy.lt>
+> > Sveiki,
+> >
+> > Nor?josi pasiteirauti, ar koki? nors priemoni? yra imamamsi prie?
+> > SPAM'erius per art.scene? Ka?kokios captchos ?d?tos ar adminai jau
+> > pasekmes naikina trindami spam userius ir spam komentarus?
+> > Klausimas kilo i? php.lt. Ten dabar belenkiek t? spam useri? ir
+> > ka?kaip pereiti visk? ranka susitvarkyti - b?t? per daug linksmas
+> > u?si?mimas.
+> _______________________________________________
+> artscene-dev mailing list
+> artscene-dev at lists.berlios.de
+> https://lists.berlios.de/mailman/listinfo/artscene-dev
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/artscene-dev/attachments/20081217/358e4ddf/attachment.html>
+

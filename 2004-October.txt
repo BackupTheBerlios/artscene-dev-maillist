@@ -1,0 +1,504 @@
+From salna at ktl.mii.lt  Mon Oct  4 21:01:27 2004
+From: salna at ktl.mii.lt (=?windows-1257?B?SnVvemFzINBhbG5h?=)
+Date: Mon, 04 Oct 2004 22:01:27 +0300
+Subject: [artscene-dev] =?windows-1257?B?byDw+2Rz?=
+Message-ID: <opsfc0gpzc34s0ra@legba>
+
+siun?iau lai?kus ?ia,
+bet sumai?iau adreso dal? po @ :((
+
+
+
+From uiron at takas.lt  Mon Oct  4 21:05:13 2004
+From: uiron at takas.lt (uiron)
+Date: Mon, 4 Oct 2004 22:05:13 +0300
+Subject: [artscene-dev] =?Windows-1257?B?UmU6IFthcnRzY2VuZS1kZXZdIG8g8Ptkcw==?=
+In-Reply-To: <opsfc0gpzc34s0ra@legba>
+References: <opsfc0gpzc34s0ra@legba>
+Message-ID: <1724068501.20041004220513@takas.lt>
+
+J?> siun?iau lai?kus ?ia,
+J?> bet sumai?iau adreso dal? po @ :((
+niekis, palyginus su tuo, kokiu klaidu moku AS su SAVO kompiuteriu:)
+
+
+
+--
+vytas
+uiron at takas.lt
+
+
+
+From uiron at takas.lt  Mon Oct  4 21:09:39 2004
+From: uiron at takas.lt (uiron)
+Date: Mon, 4 Oct 2004 22:09:39 +0300
+Subject: [artscene-dev] =?Windows-1257?B?UmU6IFthcnRzY2VuZS1kZXZdIG8g8Ptkcw==?=
+In-Reply-To: <opsfc0gpzc34s0ra@legba>
+References: <opsfc0gpzc34s0ra@legba>
+Message-ID: <1167149494.20041004220939@takas.lt>
+
+prie tos pacios diskusijos, kad nepamirsciau pasakyt vis pamirstamo
+dalyko:
+
+matau, artimiausi darbai pildomi vikyje. o gal vistik pasikurti koki
+bugtrackeri? bugzilla daiktas didokas, bet koks
+http://www.mantisbt.org/ - patikrintas ir visai neblogas daiktas.
+
+butu galima ir kompiuterastiskesniems artscenes gyventojams pasakyt,
+kad toks yra, ir patiems susigaudyti, kas kam priklauso.
+
+
+
+--
+vytas
+uiron at takas.lt
+
+
+
+From salna at ktl.mii.lt  Mon Oct  4 21:20:02 2004
+From: salna at ktl.mii.lt (=?windows-1257?B?SnVvemFzINBhbG5h?=)
+Date: Mon, 04 Oct 2004 22:20:02 +0300
+Subject: [artscene-dev] Re: =?windows-1257?B?W2FydHNjZW5lLWRldl0gUmU6IFthcnRzY2VuZS1kZXZdIG8g8Ptkcw==?=
+In-Reply-To: <1167149494.20041004220939@takas.lt>
+References: <opsfc0gpzc34s0ra@legba> <1167149494.20041004220939@takas.lt>
+Message-ID: <opsfc1bol334s0ra@legba>
+
+> matau, artimiausi darbai pildomi vikyje. o gal vistik pasikurti koki
+> bugtrackeri? bugzilla daiktas didokas, bet koks
+> http://www.mantisbt.org/ - patikrintas ir visai neblogas daiktas.
+
+
+na jei nei?siversime su wikiu,
+tai galima bandyt naudoti developer.berlios.de:
+http://developer.berlios.de/bugs/?group_id=715
+
+
+-- 
+juozas ?alna / pukomuko
+http://pukomuko.esu.lt
+
+
+From uiron at takas.lt  Fri Oct  8 09:29:37 2004
+From: uiron at takas.lt (uiron)
+Date: Fri, 8 Oct 2004 10:29:37 +0300
+Subject: [artscene-dev] planai
+Message-ID: <1403455582.20041008102937@takas.lt>
+
+lab,
+
+nezinau kodel, bet man visas procesas iki siol nelabai panasus i
+valdoma. ar kas nors kadanors delios aisku darbu plana, ar man irgi
+stacia galva pulti i ta "prisigalvoju darbu ir darau" bala?
+
+siaip tai tokiu principu toli nenueisim.
+
+
+--
+vytas
+uiron at takas.lt
+
+
+
+From salna at ktl.mii.lt  Fri Oct  8 10:08:03 2004
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Fri, 08 Oct 2004 11:08:03 +0300
+Subject: [artscene-dev] planai
+In-Reply-To: <1403455582.20041008102937@takas.lt>
+References: <1403455582.20041008102937@takas.lt>
+Message-ID: <opsfjkvpgcr0nccd@mail.takas.lt>
+
+> siaip tai tokiu principu toli nenueisim.
+sorry nesp?ju ?iuo metu nieko.
+vakar darbe iki 00:30 plu??jom :((
+
+reikia plano mhmhm :)
+
+
+From uiron at takas.lt  Fri Oct  8 10:17:23 2004
+From: uiron at takas.lt (uiron)
+Date: Fri, 8 Oct 2004 11:17:23 +0300
+Subject: [artscene-dev] planai
+In-Reply-To: <opsfjkvpgcr0nccd@mail.takas.lt>
+References: <1403455582.20041008102937@takas.lt>
+ <opsfjkvpgcr0nccd@mail.takas.lt>
+Message-ID: <449084073.20041008111723@takas.lt>
+
+
+>> siaip tai tokiu principu toli nenueisim.
+JS> sorry nesp?ju ?iuo metu nieko.
+del to net neabejojau:) bet siaip reiktu liaudziai padiriguoti bent
+minimaliai, pvz "stop, jokios saviveiklos, dar laukiam, kol susirinks
+zmones, tada mr.frost paskirstys darbus ir bus galima pulti kramtyti".
+
+
+JS> vakar darbe iki 00:30 plu??jom :((
+ruduo - grybu ir deadlainu intensyvejimo metas?
+
+
+JS> reikia plano mhmhm :)
+pirmas plano punktas: reikia plano. infinite recursion.
+
+
+ps. ateityje reply'inkimes gal geriau i mailinglista?
+
+
+
+
+--
+vytas
+uiron at takas.lt
+
+
+
+From salna at ktl.mii.lt  Wed Oct 13 17:12:39 2004
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Wed, 13 Oct 2004 18:12:39 +0300
+Subject: [artscene-dev] apie planus
+Message-ID: <opsftdvdb0r0nccd@mail.takas.lt>
+
+dabar konferencijoje yra 6 asmenys:
+a?, uiron, MartinasV, nikolajus(dzhibas), rimantas (tikriausiai ImCat?) ir
+cyrilla at gmail.com visai ne?inau kas toks ;)
+
+galvojau su kuom nors padiskutuoti per artscene susitikim?,
+bet nepavyko iki jo nusigauti :(
+
+
+nebeveikia galva,
+kaip ri k? ir koki? b?du ?ia planuoti?
+ne, a? rimtai klausiu.
+
+ka?kokius milestones daryti?
+pa?iekit visi ?
+http://art.scene.lt/wiki/AntrosVersijosPalaikymas (galb?t reikt? ? ToDo  
+i?kelti)
+tai va pa?i?r?kit kas atrodo pagal j?s? j?gas ir norus, ir u?sibukinkit  
+?alia nik? prisira?ydami.
+
+a? manau kolkas be bugtrakerio apsieisim.
+
+
+
+pastaba martinui:
+d?l html, jei tikrai apsiimi, tai ten galima ne tik keisti ? xhtml css bet  
+ir design? sukioti kaip tik nori,
+na gal ?iuo metu dar ypatingai neatitolstant, bet tikrai apribojim? n?ra.
+
+
+tok tiu mi
+
+
+From nikolajus at gmail.com  Tue Oct 19 09:03:39 2004
+From: nikolajus at gmail.com (Nikolajus Krauklis)
+Date: Tue, 19 Oct 2004 10:03:39 +0300
+Subject: [artscene-dev] artscene darbai,
+Message-ID: <e44936e504101900037c2014ca@mail.gmail.com>
+
+Matau dar niekas neki?o nag? prie source kodo. Darbai lyg ir ai?kus
+bet niekas nebando kodint. ?ioj vietoj matau kelet? problem?: nemoka
+atsip?sti sourc? i? CVS'o, arba atsip?t? tingi/negali pasileisti
+svetain?s localhost'e ? galb?t klystu bet ....
+
+Mano pvz. problema yra ta kad cvs'as per vidin? m?s? firewall'?
+neveikia :) Tad ir negaliu nusicheckoutint. Labai ?iotka b?t? kad kas
+nors pasira?yt? ar para?yt? skripto ?mot?, kuris kasnakt visk?
+nucheckoutina o paskui tar cvf ir gz ? archyv? ir kur nors padeda ?
+web'?.
+Man pakaktu ir vieno checkout'o. Gal kas galit ?
+
+-- 
+Nikolajus Krauklis <nikolajus at gmail.com>
+
+
+From uiron at takas.lt  Tue Oct 19 09:12:10 2004
+From: uiron at takas.lt (uiron)
+Date: Tue, 19 Oct 2004 10:12:10 +0300
+Subject: [artscene-dev] artscene darbai,
+In-Reply-To: <e44936e504101900037c2014ca@mail.gmail.com>
+References: <e44936e504101900037c2014ca@mail.gmail.com>
+Message-ID: <1792046902.20041019101210@takas.lt>
+
+NK> Matau dar niekas neki?o nag? prie source kodo. Darbai lyg ir ai?kus
+NK> bet niekas nebando kodint.
+
+butu idomu, bet kaip tik uzpuoles, tas kaip jis ten? darbymetis.
+
+prie to pacio klausimas juozui - kai jau teiksiuos kazka sukodint,
+pabaigus sourcus siusti tau? anonymousas teisiu cvs'ui speju neturi.
+kokia cia planuojama tvarka, ka nors mastei i ta puse?
+
+
+--
+vytas
+uiron at takas.lt
+
+
+
+From salna at ktl.mii.lt  Tue Oct 19 09:43:02 2004
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Tue, 19 Oct 2004 10:43:02 +0300
+Subject: [artscene-dev] artscene darbai,
+In-Reply-To: <e44936e504101900037c2014ca@mail.gmail.com>
+References: <e44936e504101900037c2014ca@mail.gmail.com>
+Message-ID: <opsf3w10o1r0nccd@mail.takas.lt>
+
+> Mano pvz. problema yra ta kad cvs'as per vidin? m?s? firewall'?
+> neveikia :) Tad ir negaliu nusicheckoutint. Labai ?iotka b?t? kad kas
+> nors pasira?yt? ar para?yt? skripto ?mot?, kuris kasnakt visk?
+> nucheckoutina o paskui tar cvf ir gz ? archyv? ir kur nors padeda ?
+> web'?.
+> Man pakaktu ir vieno checkout'o. Gal kas galit ?
+
+
+http://cvs.berlios.de/cvstarballs/artscene-cvsroot.tar.gz
+
+https://developer.berlios.de/docman/display_doc.php?docid=33&group_id=2
+:)
+
+be to cvs, gi per ssh ka?kaip galima pasileisti.
+o ssh portas a? sp?ju neu?firewallintas?
+
+
+
+-- 
+juozas ?alna
+
+
+From nikolajus at gmail.com  Tue Oct 19 09:45:18 2004
+From: nikolajus at gmail.com (Nikolajus Krauklis)
+Date: Tue, 19 Oct 2004 10:45:18 +0300
+Subject: [artscene-dev] artscene darbai,
+In-Reply-To: <opsf3w10o1r0nccd@mail.takas.lt>
+References: <e44936e504101900037c2014ca@mail.gmail.com>
+	 <opsf3w10o1r0nccd@mail.takas.lt>
+Message-ID: <e44936e504101900456fda81c8@mail.gmail.com>
+
+> be to cvs, gi per ssh ka?kaip galima pasileisti.
+> o ssh portas a? sp?ju neu?firewallintas?
+
+deja ir ssh i??jima rytis leid?s tik ? tam tikrus "leistinus" hostus.
+?tei teip :)
+
+
+From salna at ktl.mii.lt  Tue Oct 19 09:46:23 2004
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Tue, 19 Oct 2004 10:46:23 +0300
+Subject: [artscene-dev] artscene darbai,
+In-Reply-To: <opsf3w10o1r0nccd@mail.takas.lt>
+References: <e44936e504101900037c2014ca@mail.gmail.com> <opsf3w10o1r0nccd@mail.takas.lt>
+Message-ID: <opsf3w7ltdr0nccd@mail.takas.lt>
+
+> http://cvs.berlios.de/cvstarballs/artscene-cvsroot.tar.gz
+
+argh ten cvs root'o backupas
+nelabai ?inau kaip staigiai juo pasinaudoti.
+
+-- 
+juozas ?alna
+
+
+From nikolajus at gmail.com  Tue Oct 19 09:46:28 2004
+From: nikolajus at gmail.com (Nikolajus Krauklis)
+Date: Tue, 19 Oct 2004 10:46:28 +0300
+Subject: [artscene-dev] artscene darbai,
+In-Reply-To: <opsf3w10o1r0nccd@mail.takas.lt>
+References: <e44936e504101900037c2014ca@mail.gmail.com>
+	 <opsf3w10o1r0nccd@mail.takas.lt>
+Message-ID: <e44936e50410190046a7ac22b@mail.gmail.com>
+
+> http://cvs.berlios.de/cvstarballs/artscene-cvsroot.tar.gz
+ouje, apie daily snapshot garb? ?odis tik dabar su?inojau :) thanks ...
+-- 
+Nikolajus Krauklis <nikolajus at gmail.com>
+
+
+From salna at ktl.mii.lt  Tue Oct 19 10:02:34 2004
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Tue, 19 Oct 2004 11:02:34 +0300
+Subject: [artscene-dev] artscene darbai,
+In-Reply-To: <1792046902.20041019101210@takas.lt>
+References: <e44936e504101900037c2014ca@mail.gmail.com> <1792046902.20041019101210@takas.lt>
+Message-ID: <opsf3xyku4r0nccd@mail.takas.lt>
+
+> prie to pacio klausimas juozui - kai jau teiksiuos kazka sukodint,
+> pabaigus sourcus siusti tau? anonymousas teisiu cvs'ui speju neturi.
+> kokia cia planuojama tvarka, ka nors mastei i ta puse?
+
+taigi ne anonymous
+prisijunk prie berlios
+pasidaryk user?
+ir padarysiu commiteriu ? projekt?.
+arba si?skit man diffus a? komitinsiu ;]
+
+
+-- 
+juozas ?alna
+
+
+From nikolajus at gmail.com  Tue Oct 19 10:06:31 2004
+From: nikolajus at gmail.com (Nikolajus Krauklis)
+Date: Tue, 19 Oct 2004 11:06:31 +0300
+Subject: [artscene-dev] artscene darbai,
+In-Reply-To: <opsf3xyku4r0nccd@mail.takas.lt>
+References: <e44936e504101900037c2014ca@mail.gmail.com>
+	 <1792046902.20041019101210@takas.lt> <opsf3xyku4r0nccd@mail.takas.lt>
+Message-ID: <e44936e50410190106777ba632@mail.gmail.com>
+
+vien?o a? su CVS'u susitvarkiau.
+
+juozai man reik kad padarytum mane project admin'u, bo noriu 
+dasigauti iki artscene.berlios.de (SSH) shell'o
+
+
+From nikolajus at gmail.com  Tue Oct 19 10:08:48 2004
+From: nikolajus at gmail.com (Nikolajus Krauklis)
+Date: Tue, 19 Oct 2004 11:08:48 +0300
+Subject: [artscene-dev] artscene darbai,
+In-Reply-To: <e44936e50410190106777ba632@mail.gmail.com>
+References: <e44936e504101900037c2014ca@mail.gmail.com>
+	 <1792046902.20041019101210@takas.lt> <opsf3xyku4r0nccd@mail.takas.lt>
+	 <e44936e50410190106777ba632@mail.gmail.com>
+Message-ID: <e44936e504101901084afea846@mail.gmail.com>
+
+> juozai man reik kad padarytum mane project admin'u, bo noriu
+> dasigauti iki artscene.berlios.de (SSH) shell'o
+> 
+
+dabar to man reik, bo ant sm?gio padarysiu crontab'e CVS newest
+checkout'? suarchyvuotu pavidalu d?siu ? anonymous:
+ftp://ftp.berlios.de/pub/artscene/
+
+-- 
+Nikolajus Krauklis <nikolajus at gmail.com>
+
+
+From salna at ktl.mii.lt  Tue Oct 19 10:17:07 2004
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Tue, 19 Oct 2004 11:17:07 +0300
+Subject: [artscene-dev] artscene darbai,
+In-Reply-To: <e44936e504101901084afea846@mail.gmail.com>
+References: <e44936e504101900037c2014ca@mail.gmail.com>  <1792046902.20041019101210@takas.lt> <opsf3xyku4r0nccd@mail.takas.lt>  <e44936e50410190106777ba632@mail.gmail.com> <e44936e504101901084afea846@mail.gmail.com>
+Message-ID: <opsf3ymtxar0nccd@mail.takas.lt>
+
+On Tue, 19 Oct 2004 11:08:48 +0300, Nikolajus Krauklis  
+<nikolajus at gmail.com> wrote:
+
+>> juozai man reik kad padarytum mane project admin'u, bo noriu
+>> dasigauti iki artscene.berlios.de (SSH) shell'o
+>>
+
+padariau amdinu
+
+
+
+-- 
+juozas ?alna
+
+
+From salna at ktl.mii.lt  Tue Oct 19 10:17:47 2004
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Tue, 19 Oct 2004 11:17:47 +0300
+Subject: [artscene-dev] artscene darbai,
+In-Reply-To: <e44936e504101901084afea846@mail.gmail.com>
+References: <e44936e504101900037c2014ca@mail.gmail.com>  <1792046902.20041019101210@takas.lt> <opsf3xyku4r0nccd@mail.takas.lt>  <e44936e50410190106777ba632@mail.gmail.com> <e44936e504101901084afea846@mail.gmail.com>
+Message-ID: <opsf3ynxwer0nccd@mail.takas.lt>
+
+On Tue, 19 Oct 2004 11:08:48 +0300, Nikolajus Krauklis  
+<nikolajus at gmail.com> wrote:
+
+>> juozai man reik kad padarytum mane project admin'u, bo noriu
+>> dasigauti iki artscene.berlios.de (SSH) shell'o
+>>
+>
+> dabar to man reik, bo ant sm?gio padarysiu crontab'e CVS newest
+> checkout'? suarchyvuotu pavidalu d?siu ? anonymous:
+> ftp://ftp.berlios.de/pub/artscene/
+>
+o gali u? t? pat? pa?i?r?ti
+kad si?stu cvs commitus
+?
+artscene-cvs@ ?
+listas jau pakurtas
+
+
+-- 
+juozas ?alna
+
+
+From nikolajus at gmail.com  Tue Oct 19 10:19:53 2004
+From: nikolajus at gmail.com (Nikolajus Krauklis)
+Date: Tue, 19 Oct 2004 11:19:53 +0300
+Subject: [artscene-dev] artscene darbai,
+In-Reply-To: <opsf3ynxwer0nccd@mail.takas.lt>
+References: <e44936e504101900037c2014ca@mail.gmail.com>
+	 <1792046902.20041019101210@takas.lt> <opsf3xyku4r0nccd@mail.takas.lt>
+	 <e44936e50410190106777ba632@mail.gmail.com>
+	 <e44936e504101901084afea846@mail.gmail.com>
+	 <opsf3ynxwer0nccd@mail.takas.lt>
+Message-ID: <e44936e504101901195c4c3797@mail.gmail.com>
+
+ok, 
+antros dienos pus?j lysiu ten.
+
+
+From nikolajus at gmail.com  Tue Oct 19 14:57:17 2004
+From: nikolajus at gmail.com (Nikolajus Krauklis)
+Date: Tue, 19 Oct 2004 15:57:17 +0300
+Subject: [artscene-dev] darbai,
+Message-ID: <e44936e504101905576f45a4f1@mail.gmail.com>
+
+vien?o susitvarkiau su shell'u, (host shell.berlios.de), home dir:
+/home/groups/artscene
+anonymous ftp: /home/groups/ftp/pub/artscene
+
+padariau kad kasnakt suarchyvoutas art.scene.v2 modulis gultusi ?
+anonymous FTP, gal kam prireiks:
+ftp://ftp.berlios.de/pub/artscene/snapshots/
+
+paskui padariau kad CVS commit'ai ir visas kitas loginfo eitu ?
+mailing list'? : artscene-cvs at lists.berlios.de
+(paband?iau commitint , bet meilo kotais dar nematau. sp?ju ten
+statosi meil? eil?, bo meilinasi per pythonin? skript?)
+
+http://artscene.berlios.de nukreipiau ? http://art.scene.lt/wiki, 
+fyg znajet gal kada galima b?t? pa?aist kad ten stov?t? fully
+functional dev artscene site. (ale kasnak nucheckoutint ? htdocs dir'?
+ir u?loadint DB). fyg znajet dar neband?iau
+-- 
+Nikolajus Krauklis <nikolajus at gmail.com>
+
+
+From salna at ktl.mii.lt  Tue Oct 19 15:14:10 2004
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Tue, 19 Oct 2004 16:14:10 +0300
+Subject: [artscene-dev] darbai,
+In-Reply-To: <e44936e504101905576f45a4f1@mail.gmail.com>
+References: <e44936e504101905576f45a4f1@mail.gmail.com>
+Message-ID: <opsf4cdw06r0nccd@mail.takas.lt>
+
+ople!
+bu?kiai alus ir apkabinimai :)
+
+> ftp://ftp.berlios.de/pub/artscene/snapshots/
+aha guli.
+
+> paskui padariau kad CVS commit'ai ir visas kitas loginfo eitu ?
+> mailing list'? : artscene-cvs at lists.berlios.de
+archyve guli vienas meilas,
+o prisijungiau tik dabar
+
+
+> http://artscene.berlios.de nukreipiau ? http://art.scene.lt/wiki,
+?ia irgi gerai
+
+> fyg znajet gal kada galima b?t? pa?aist kad ten stov?t? fully
+> functional dev artscene site. (ale kasnak nucheckoutint ? htdocs dir'?
+> ir u?loadint DB). fyg znajet dar neband?iau
+ai gal kolkas nereikia :)
+
+
+
+-- 
+juozas ?alna
+
+

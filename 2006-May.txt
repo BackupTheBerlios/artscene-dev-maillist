@@ -1,0 +1,143 @@
+From salna at ktl.mii.lt  Tue May 23 14:26:33 2006
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Tue, 23 May 2006 16:26:33 +0400
+Subject: [artscene-dev] my.artscene
+In-Reply-To: <442BDC85.1040609@freaky.lt>
+References: <442BDC85.1040609@freaky.lt>
+Message-ID: <op.s90aajnar0nccd@mail.takas.lt>
+
+TEST
+:)
+
+
+-- 
+juozas ?alna
+
+
+From salna at ktl.mii.lt  Tue May 23 14:36:18 2006
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Tue, 23 May 2006 16:36:18 +0400
+Subject: [artscene-dev] art.scene forumas
+Message-ID: <op.s90aqsapr0nccd@mail.takas.lt>
+
+sveiki,
+
+gromuluoju mint?,
+kad reikt? dabartin? artscenos forum? pakeisti kokiu nors tre?i? ?ali?
+produktu.
+kartu ? ten perkelti ir asmenini? ?inu?i? funkcionalum?.
+
+nes ?mon?s labai skund?iasi, kad dabartinis mechanizmas nepatogus ir a? su
+jais sutinku.
+
+forum? bandy?iau integruoti, kad tiek useriai tiek passwordai b?t? tie
+patys.
+tod?l reikia surasti forum?, kurio sourcai b?t? ?skaitomi :))
+
+man rodos, kad forumas tur?t? b?ti:
+   * paprastutis, be ?imto visoki? featur?.
+   * neapkrautu interfeisu, kad matyt?si ?moni? postai.
+
+?iuo metu ap?i?rin?ju du:
+   * http://getvanilla.com/
+     labai gra?us ir paprastas, tik asmenini? ?inu?i? keista ideologija.
+nevisi supras.
+
+   * http://www.punbb.org/
+     irgi paprastas, tik man rodos ne taip gra?iai kustomizuojais, bet ties?
+pasakius dar nelabai patikrinau.
+
+gal j?s daugiau naudojat?s visokiais forumai ir kokiais ypatingai
+d?iaugiat?s?
+
+
+
+-- 
+juozas ?alna
+
+
+From salna at ktl.mii.lt  Tue May 23 14:40:55 2006
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Tue, 23 May 2006 16:40:55 +0400
+Subject: [artscene-dev] apie fotkes
+In-Reply-To: <442BDC85.1040609@freaky.lt>
+References: <442BDC85.1040609@freaky.lt>
+Message-ID: <op.s90ayhk4r0nccd@mail.takas.lt>
+
+kolkas yra kaip yra,
+gal pa?aisim su apribojimais balsavimui.
+
+bet fotografij? a? vistek m?stau i?kelti kur nors atskirai.
+bet tai neb?t? artscenos klonas arba ka?kokio u?sienieti?ko didelio foto  
+saito klonas.
+gudriausia b?t? padaryti, tai kaip ?aidim? ar pana?iai.
+kur nesikaupt? didelis darb? portfolio, o tos fotk?s vis keist?si ir  
+keist?si.
+tarkim yra fiksuotos ~1000 darb? pozicij?.
+yra fiksuotas am?ius ~3m?n po kuri? darbas persenas ir pana?iai.
+bet tikslas yra, kad pastoviai eit? srautas darb?, kuris labai greit  
+susifiltruot?.
+nu a? dar pam?ginsiu ai?kiau kadanors sugromuluot k? a? ?ia m?stau.
+
+
+
+
+
+-- 
+juozas ?alna
+
+
+From viktoras at freaky.lt  Tue May 23 15:51:27 2006
+From: viktoras at freaky.lt (viktoras makauskas)
+Date: Tue, 23 May 2006 16:51:27 +0300
+Subject: [artscene-dev] art.scene forumas
+In-Reply-To: <op.s90aqsapr0nccd@mail.takas.lt>
+References: <op.s90aqsapr0nccd@mail.takas.lt>
+Message-ID: <4473135F.9050208@freaky.lt>
+
+Juozas Salna wrote:
+> nes ?mon?s labai skund?iasi, kad dabartinis mechanizmas nepatogus ir a? su
+> jais sutinku.
+o man tai nelabai aisku, ko truksta ir kas siekiama sutvarkyti 
+integruojant 3rdparty. yra temos, galima replyint, viskas. tas pats kas 
+po darbu. cia gi ne cgsociety, komunitis nesibazuoja ant forumo pagrindo.
+
+-- 
+viktoras
+http://uiron.deviantart.com
+
+
+From salna at ktl.mii.lt  Tue May 23 16:23:22 2006
+From: salna at ktl.mii.lt (Juozas Salna)
+Date: Tue, 23 May 2006 18:23:22 +0400
+Subject: [artscene-dev] art.scene forumas
+In-Reply-To: <4473135F.9050208@freaky.lt>
+References: <op.s90aqsapr0nccd@mail.takas.lt> <4473135F.9050208@freaky.lt>
+Message-ID: <op.s90fo8r2r0nccd@mail.takas.lt>
+
+On Tue, 23 May 2006 17:51:27 +0400, viktoras makauskas  
+<viktoras at freaky.lt> wrote:
+
+> Juozas Salna wrote:
+>> nes ?mon?s labai skund?iasi, kad dabartinis mechanizmas nepatogus ir a?  
+>> su
+>> jais sutinku.
+> o man tai nelabai aisku, ko truksta ir kas siekiama sutvarkyti  
+> integruojant 3rdparty. yra temos, galima replyint, viskas. tas pats kas  
+> po darbu. cia gi ne cgsociety, komunitis nesibazuoja ant forumo pagrindo.
+>
+pirmas dalykas tai noriu perkelti ? forum? priva?ias ?inutes.
+antras dalykas dabartiniam forume reikia u?daryt? tem? arba tem? ? kurias  
+ra?o tik tam tikri asmenys.
+dugiau nieko ypatingo. ir kad puslapiuot?si tiek asmenin?s ?inut?s tiek  
+forumo temos.
+
+
+
+
+
+
+-- 
+juozas ?alna
+
+
